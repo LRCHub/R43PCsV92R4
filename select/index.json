@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "base_track": "City Lights",
+  "base_artist": "Avicii",
+  "createdAt": "2025-12-22T13:55:51.218476Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/01_City_Lights_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Ray Price",
+      "has_synced": false,
+      "path": "select/02_City_Lights_Ray_Price.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kansas City Lights",
+      "artist": "Steve Wariner",
+      "has_synced": true,
+      "path": "select/03_Kansas_City_Lights_Steve_Wariner.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Lou Reed",
+      "has_synced": true,
+      "path": "select/04_City_Lights_Lou_Reed.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Berlin",
+      "has_synced": false,
+      "path": "select/05_City_Lights_Berlin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Out in the City Lights (feat. Danny Rexon & Kane Roberts)",
+      "artist": "Midnight Danger",
+      "has_synced": true,
+      "path": "select/06_Out_in_the_City_Lights_(feat._Danny_Rexon_&_Kane_Roberts)_Midnight_Danger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Devics",
+      "has_synced": true,
+      "path": "select/07_City_Lights_Devics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "City Lights & Traffic Sounds",
+      "artist": "The Reign of Kindo",
+      "has_synced": false,
+      "path": "select/08_City_Lights_&_Traffic_Sounds_The_Reign_of_Kindo.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Honolulu City Lights",
+      "artist": "Carpenters",
+      "has_synced": true,
+      "path": "select/09_Honolulu_City_Lights_Carpenters.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Husky Rescue",
+      "has_synced": true,
+      "path": "select/10_City_Lights_Husky_Rescue.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Empty City Lights",
+      "artist": "Hearts of Black Science",
+      "has_synced": true,
+      "path": "select/11_Empty_City_Lights_Hearts_of_Black_Science.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Dagoba",
+      "has_synced": false,
+      "path": "select/12_City_Lights_Dagoba.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Elisa",
+      "has_synced": true,
+      "path": "select/13_City_Lights_Elisa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "City Lights",
+      "artist": "Submotion Orchestra",
+      "has_synced": true,
+      "path": "select/14_City_Lights_Submotion_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New York City Lights",
+      "artist": "Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/15_New_York_City_Lights_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "City Lights - 2018",
+      "artist": "JoJo",
+      "has_synced": false,
+      "path": "select/16_City_Lights_-_2018_JoJo.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "City of Music",
+      "artist": "Brad Paisley",
+      "has_synced": true,
+      "path": "select/17_City_of_Music_Brad_Paisley.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's Hard to Be a Saint in the City",
+      "artist": "Bruce Springsteen",
+      "has_synced": true,
+      "path": "select/18_It's_Hard_to_Be_a_Saint_in_the_City_Bruce_Springsteen.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Doom City",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_Doom_City_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Doom City",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/20_Doom_City_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Big City",
+      "artist": "Merle Haggard",
+      "has_synced": false,
+      "path": "select/21_Big_City_Merle_Haggard.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Big City (Album Version)",
+      "artist": "Merle Haggard",
+      "has_synced": true,
+      "path": "select/22_Big_City_(Album_Version)_Merle_Haggard.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Bright Lights, Big City",
+      "artist": "Sonny James",
+      "has_synced": true,
+      "path": "select/23_Bright_Lights,_Big_City_Sonny_James.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "City of New Orleans",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/24_City_of_New_Orleans_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "City Of New Orleans (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/25_City_Of_New_Orleans_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Detroit City",
+      "artist": "Bobby Bare",
+      "has_synced": true,
+      "path": "select/26_Detroit_City_Bobby_Bare.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "El Paso City",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/27_El_Paso_City_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "El Paso City (Album Version)",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/28_El_Paso_City_(Album_Version)_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Fist City - Single Version",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/29_Fist_City_-_Single_Version_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Fist City (Single Version)",
+      "artist": "Loretta Lynn",
+      "has_synced": false,
+      "path": "select/30_Fist_City_(Single_Version)_Loretta_Lynn.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Kansas City Southern",
+      "artist": "Turnpike Troubadours",
+      "has_synced": true,
+      "path": "select/31_Kansas_City_Southern_Turnpike_Troubadours.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "City Lights",
+      "artist": "Avicii",
+      "has_synced": false,
+      "path": "select/pl_01_City_Lights_Avicii.txt"
+    }
+  ]
+}
